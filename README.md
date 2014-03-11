@@ -1,4 +1,4 @@
 Wolf3D
 ======
 
-The Wolf3d's Epitech project
+A Game Project from Epitech
